@@ -32,10 +32,13 @@ Real-Time Fleet Data → Digital Twin Simulation → AI Prediction & Insights
 
 ---
 
-## 🧠 Key Outcomes
-| Metric | Result |
-|--------|--------|
-| Cost Reduction | ≈ **66.7%** |
+## 🧠 Key Outcome
+
+**Result Highlights**
+- 🔧 **Maintenance cost reduced by ≈66.7%**
+- ⚙️ **Increased operational stability** through early failure prediction  
+- 🌱 **Supports sustainability goals** by reducing waste and downtime  
+- 📈 **Demonstrated scalability** for broader transit applications
 
 ---
 
@@ -103,4 +106,5 @@ Special thanks to **FleetZero** and **Centennial College** for organizing the 20
 
 ### ✨ Keywords
 `AI` · `Digital Twin` · `Predictive Maintenance` · `Smart Fleet` · `Transportation Innovation`  
+
 
