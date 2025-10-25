@@ -90,11 +90,12 @@ Our project was recognized for demonstrating how **AI-driven predictive maintena
 ---
 
 ## 📂 Repository Structure
+```
 📁 /Presentation/ → Project presentation (PDF)
 📁 /images/ → QR codes and visuals
 📁 /docs/ → Additional documentation (to be added)
 📄 README.md → Project overview (this file)
-
+```
 ---
 
 ## 🙏 Credits
@@ -106,5 +107,6 @@ Special thanks to **FleetZero** and **Centennial College** for organizing the 20
 
 ### ✨ Keywords
 `AI` · `Digital Twin` · `Predictive Maintenance` · `Smart Fleet` · `Transportation Innovation`  
+
 
 
