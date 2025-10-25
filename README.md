@@ -28,9 +28,7 @@ The challenge:
 
 Real-Time Fleet Data → Digital Twin Simulation → AI Prediction & Insights
 
-✅ Predicts failures **2–3 weeks in advance**  
 ✅ Reduces maintenance cost by **≈66.7%**  
-✅ Extends battery lifespan by **20–25%**
 
 ---
 
@@ -38,9 +36,6 @@ Real-Time Fleet Data → Digital Twin Simulation → AI Prediction & Insights
 | Metric | Result |
 |--------|--------|
 | Cost Reduction | ≈ **66.7%** |
-| Electric Uptime | **92%** |
-| CO₂ Saved per Month | **1.9 tons (projected)** |
-| Prediction Lead Time | **2–3 weeks** |
 
 ---
 
@@ -108,3 +103,4 @@ Special thanks to **FleetZero** and **Centennial College** for organizing the 20
 
 ### ✨ Keywords
 `AI` · `Digital Twin` · `Predictive Maintenance` · `Smart Fleet` · `Transportation Innovation`  
+
