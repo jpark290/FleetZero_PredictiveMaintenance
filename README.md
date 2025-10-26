@@ -2,7 +2,7 @@
 
 **🏆 1st Place – Transportation Innovation Jam 2025 (FleetZero Challenge)**  
 Hosted by **FleetZero** and **Centennial College**  
-📅 *Date:* October 24, 2025  
+📅 *Date:* October 24, 2025 (Oct 20 ~ Oct 24)
 
 ---
 
@@ -107,6 +107,7 @@ Special thanks to **FleetZero** and **Centennial College** for organizing the 20
 
 ### ✨ Keywords
 `AI` · `Digital Twin` · `Predictive Maintenance` · `Smart Fleet` · `Transportation Innovation`  
+
 
 
 
